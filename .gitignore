@@ -13,3 +13,10 @@ playwright-report/
 .vscode/
 trajectory.jsonl
 trajectory.md.jsonl
+
+# 本项目生成
+*.tsbuildinfo
+.verify/
+e2e-results/playwright-report/
+tests/test-results/
+tests/playwright-report/
